@@ -1,0 +1,21 @@
+@media screen and (max-width:1350px){
+    body {
+        box-sizing: border-box;
+        background-color: var(--cor-de-fondo) ; 
+        margin: 0px;
+        padding: 0px;
+        z-index: 1;
+        position: relative;
+    
+    }
+
+    #particles-js{
+        display: flex;
+        flex-wrap: wrap;
+        height: 100%;
+        width: 100%;
+        position: fixed;
+        z-index: auto;
+      }
+
+    }
